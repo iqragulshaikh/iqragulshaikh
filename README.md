@@ -281,29 +281,76 @@ Led front-end development across live client projects, engineering fully functio
 
 ## 📜 Certifications
 
-**Cisco**
+<div align="center">
 
-![CCNA](https://img.shields.io/badge/CCNA-Introduction%20to%20Networks-0077B6?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0A192F)
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/main/assets/datascience.PNG" target="_blank">
+<img src="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/main/assets/datascience.PNG" width="180"/>
+</a>
+<br/><b>Intro to Data Science</b>
+<br/><sub>Cisco · Sep 2025</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/main/assets/Deloitte.PNG" target="_blank">
+<img src="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/main/assets/Deloitte.PNG" width="180"/>
+</a>
+<br/><b>Data Analytics Simulation</b>
+<br/><sub>Deloitte Australia · Aug 2025</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/main/assets/Mckinsey%20Forward.PNG" target="_blank">
+<img src="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/main/assets/Mckinsey%20Forward.PNG" width="180"/>
+</a>
+<br/><b>Forward Program</b>
+<br/><sub>McKinsey & Company · Dec 2025</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/main/assets/oracle_foundationsAssociate.PNG" target="_blank">
+<img src="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/main/assets/oracle_foundationsAssociate.PNG" width="180"/>
+</a>
+<br/><b>OCI Certified AI Foundations</b>
+<br/><sub>Oracle Cloud · Oct 2025</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<a href="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/main/assets/Folio.png" target="_blank">
+<img src="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/main/assets/Folio.png" width="180"/>
+</a>
+<br/><b>Folio3 AI Workshop</b>
+<br/><sub>GDG on Campus · Mar 2025</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/main/assets/PYTHON%20CERTIFICATION.png" target="_blank">
+<img src="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/main/assets/PYTHON%20CERTIFICATION.png" width="180"/>
+</a>
+<br/><b>Python Mastering eBook</b>
+<br/><sub>CosmiCode · Apr 2025</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/main/assets/Cosmicon%20competition%2025.png" target="_blank">
+<img src="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/main/assets/Cosmicon%20competition%2025.png" width="180"/>
+</a>
+<br/><b>CosmiCon 2025 — AI & Coding</b>
+<br/><sub>CosmiCode · Apr 2025</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/main/assets/NEDMUN.png" target="_blank">
+<img src="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/main/assets/NEDMUN.png" width="180"/>
+</a>
+<br/><b>Delegate — Special Mention</b>
+<br/><sub>NEDMUN VI · Jan 2026</sub>
+</td>
+</tr>
+</table>
 
-**Oracle**
+<sub>Click any certificate to view full size.</sub>
 
-![Oracle](https://img.shields.io/badge/OCI%202025-Certified%20AI%20Foundations%20Associate-00B4D8?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0A192F)
+</div>
 
-**McKinsey & Company**
-
-![McKinsey](https://img.shields.io/badge/McKinsey.org-Forward%20Program-0096C7?style=for-the-badge&labelColor=0A192F)
-
-**Forage**
-
-![Forage](https://img.shields.io/badge/Deloitte%20Australia-Data%20Analytics%20Job%20Simulation-48CAE4?style=for-the-badge&labelColor=0A192F)
-
-**Google Developer Groups**
-
-![GDG](https://img.shields.io/badge/Folio3-AI%20Workshop-0077B6?style=for-the-badge&logo=google&logoColor=white&labelColor=0A192F)
-
-**CosmiCode**
-
-![CosmiCode](https://img.shields.io/badge/Python%20Mastering-eBook-00B4D8?style=for-the-badge&logo=python&logoColor=white&labelColor=0A192F)
+**Also certified in:** CCNA — Introduction to Networks, Cisco Networking Academy
 
 <br/>
 
