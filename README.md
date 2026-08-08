@@ -1,37 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=IQRA%20GUL&fontSize=70&fontColor=E0AAFF&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20QA%20%7C%20Public%20Speaker&descAlignY=55&descSize=20&descColor=C77DFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:0077B6,100:48CAE4&height=260&section=header&text=IQRA%20GUL&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20QA%20%7C%20Public%20Speaker&descAlignY=55&descSize=20&descColor=ADE8F4" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+applications;Engineering+AI%2FML+solutions+for+real+problems;Turning+ideas+into+production-ready+products;CGPA+3.94+%7C+Sir+Syed+University+of+Eng.+%26+Tech." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=48CAE4&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+applications;Engineering+AI%2FML+solutions+for+real+problems;Turning+ideas+into+production-ready+products;CGPA+3.94+%7C+Sir+Syed+University+of+Eng.+%26+Tech." alt="Typing SVG" />
 </a>
 
 <br/>
 
-![CGPA](https://img.shields.io/badge/CGPA-3.94%2F4.00-6A00F4?style=for-the-badge&labelColor=10002B)
-![University](https://img.shields.io/badge/Sir%20Syed%20University-CS%20%2723--%2727-9D4EDD?style=for-the-badge&labelColor=10002B)
-![Location](https://img.shields.io/badge/Karachi-Pakistan-7B2CBF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=10002B)
+![CGPA](https://img.shields.io/badge/CGPA-3.94%2F4.00-0077B6?style=for-the-badge&labelColor=0A192F)
+![University](https://img.shields.io/badge/Sir%20Syed%20University-CS%20%2723--%2727-00B4D8?style=for-the-badge&labelColor=0A192F)
+![Location](https://img.shields.io/badge/Karachi-Pakistan-0096C7?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0A192F)
 
 <br/>
 
-<a href="https://iqra-gul-portfolio-2r1u.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-C77DFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=10002B" /></a>
-<a href="https://www.linkedin.com/in/iqra-gul-shaikh-6314a92a1"><img src="https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10002B" /></a>
-<a href="mailto:iqragulshaikh454@gmail.com"><img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=10002B" /></a>
-<a href="https://github.com/iqragulshaikh"><img src="https://img.shields.io/badge/GitHub-6A00F4?style=for-the-badge&logo=github&logoColor=white&labelColor=10002B" /></a>
+<a href="https://iqra-gul-portfolio-2r1u.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-48CAE4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A192F" /></a>
+<a href="https://www.linkedin.com/in/iqra-gul-shaikh-6314a92a1"><img src="https://img.shields.io/badge/LinkedIn-00B4D8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A192F" /></a>
+<a href="mailto:iqragulshaikh454@gmail.com"><img src="https://img.shields.io/badge/Email-0096C7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A192F" /></a>
+<a href="https://github.com/iqragulshaikh"><img src="https://img.shields.io/badge/GitHub-0077B6?style=for-the-badge&logo=github&logoColor=white&labelColor=0A192F" /></a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=iqragulshaikh&style=for-the-badge&color=6A00F4&labelColor=10002B)
-![Followers](https://img.shields.io/github/followers/iqragulshaikh?style=for-the-badge&color=7B2CBF&labelColor=10002B&label=Followers)
-![Stars](https://img.shields.io/github/stars/iqragulshaikh?style=for-the-badge&color=9D4EDD&labelColor=10002B&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=iqragulshaikh&style=for-the-badge&color=0077B6&labelColor=0A192F)
+![Followers](https://img.shields.io/github/followers/iqragulshaikh?style=for-the-badge&color=0096C7&labelColor=0A192F&label=Followers)
+![Stars](https://img.shields.io/github/stars/iqragulshaikh?style=for-the-badge&color=00B4D8&labelColor=0A192F&label=Stars)
 
 </div>
 
 <br/>
 
 ## 🪐 About Me
-
-<img align="right" width="35%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=C77DFF&width=1&height=1&lines=" />
 
 I'm a **Computer Science undergraduate** at Sir Syed University of Engineering and Technology (CGPA **3.94**), engineering full-stack web applications and AI/ML-driven systems with a product-focused, engineering-first mindset. My work spans **responsive frontend architecture**, **NLP-based classification systems**, and **QA/test design**, backed by hands-on experience shipping production-ready e-commerce platforms for real clients with **zero post-launch defects**.
 
@@ -265,16 +263,15 @@ Led front-end development across live client projects, engineering fully functio
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Recognition
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| 🥇 **Special Mention — NEDMUN VI** | Special Political and Decolonization Committee, representing Afghanistan (Jan 2026) |
-| 🎤 **Best Host — SMEC '25** | Hosted an academic/professional event for 200+ attendees (Jan 2025) |
-| 📊 **Deloitte Australia Data Analytics Simulation** | Forage — forensic technology & BI pipeline simulation (Aug 2025) |
-| 🎓 **3.94 CGPA** | Sir Syed University of Engineering and Technology, BS Computer Science |
+| 🥇 **Special Mention — NEDMUN VI** | Awarded for exceptional negotiation, policy delivery, and diplomatic communication while representing Afghanistan in the Special Political and Decolonization Committee (Jan 2026) |
+| 🎤 **Best Host — SMEC '25** | Recognized for stage command and audience management while hosting a 200+ attendee academic/professional event (Jan 2025) |
+| 🚀 **Zero-Defect Delivery Record** | Shipped 4+ production e-commerce applications for real clients at Developers Hub with zero post-launch defects (Jun 2026) |
 
 </div>
 
@@ -286,27 +283,27 @@ Led front-end development across live client projects, engineering fully functio
 
 **Cisco**
 
-![CCNA](https://img.shields.io/badge/CCNA-Introduction%20to%20Networks-6A00F4?style=for-the-badge&logo=cisco&logoColor=white&labelColor=10002B)
+![CCNA](https://img.shields.io/badge/CCNA-Introduction%20to%20Networks-0077B6?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0A192F)
 
 **Oracle**
 
-![Oracle](https://img.shields.io/badge/OCI%202025-Certified%20AI%20Foundations%20Associate-9D4EDD?style=for-the-badge&logo=oracle&logoColor=white&labelColor=10002B)
+![Oracle](https://img.shields.io/badge/OCI%202025-Certified%20AI%20Foundations%20Associate-00B4D8?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0A192F)
 
 **McKinsey & Company**
 
-![McKinsey](https://img.shields.io/badge/McKinsey.org-Forward%20Program-7B2CBF?style=for-the-badge&labelColor=10002B)
+![McKinsey](https://img.shields.io/badge/McKinsey.org-Forward%20Program-0096C7?style=for-the-badge&labelColor=0A192F)
 
 **Forage**
 
-![Forage](https://img.shields.io/badge/Deloitte%20Australia-Data%20Analytics%20Job%20Simulation-C77DFF?style=for-the-badge&labelColor=10002B)
+![Forage](https://img.shields.io/badge/Deloitte%20Australia-Data%20Analytics%20Job%20Simulation-48CAE4?style=for-the-badge&labelColor=0A192F)
 
 **Google Developer Groups**
 
-![GDG](https://img.shields.io/badge/Folio3-AI%20Workshop-6A00F4?style=for-the-badge&logo=google&logoColor=white&labelColor=10002B)
+![GDG](https://img.shields.io/badge/Folio3-AI%20Workshop-0077B6?style=for-the-badge&logo=google&logoColor=white&labelColor=0A192F)
 
 **CosmiCode**
 
-![CosmiCode](https://img.shields.io/badge/Python%20Mastering-eBook-9D4EDD?style=for-the-badge&logo=python&logoColor=white&labelColor=10002B)
+![CosmiCode](https://img.shields.io/badge/Python%20Mastering-eBook-00B4D8?style=for-the-badge&logo=python&logoColor=white&labelColor=0A192F)
 
 <br/>
 
@@ -316,12 +313,14 @@ Led front-end development across live client projects, engineering fully functio
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iqragulshaikh&show_icons=true&theme=radical&hide_border=true&bg_color=10002B&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iqragulshaikh&theme=radical&hide_border=true&background=10002B&stroke=9D4EDD&ring=C77DFF&fire=C77DFF&currStreakLabel=E0AAFF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iqragulshaikh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A192F&title_color=48CAE4&icon_color=00B4D8&text_color=ADE8F4" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iqragulshaikh&hide_border=true&background=0A192F&stroke=00B4D8&ring=48CAE4&fire=48CAE4&currStreakLabel=ADE8F4" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqragulshaikh&layout=compact&theme=radical&hide_border=true&bg_color=10002B&title_color=C77DFF&text_color=E0AAFF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqragulshaikh&layout=compact&hide_border=true&bg_color=0A192F&title_color=48CAE4&text_color=ADE8F4" width="48%"/>
 
 </div>
+
+<p align="center"><sub>Stats reflect real GitHub activity and update automatically — they'll fill out as more of your project repos and commits go public.</sub></p>
 
 <br/>
 
@@ -331,7 +330,7 @@ Led front-end development across live client projects, engineering fully functio
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=iqragulshaikh&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=iqragulshaikh&theme=onedark&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -343,7 +342,7 @@ Led front-end development across live client projects, engineering fully functio
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iqragulshaikh&theme=redical&bg_color=10002B&color=C77DFF&line=9D4EDD&point=E0AAFF&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iqragulshaikh&theme=redical&bg_color=0A192F&color=48CAE4&line=00B4D8&point=ADE8F4&hide_border=true" width="90%"/>
 
 </div>
 
@@ -355,7 +354,13 @@ Led front-end development across live client projects, engineering fully functio
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/output/dist/ocean-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/output/dist/ocean-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/output/dist/ocean-snake.svg" width="90%"/>
+</picture>
+
+<sub>⚠️ This only appears after you add the workflow below and it runs once — see setup instructions I'm sending next.</sub>
 
 </div>
 
@@ -394,10 +399,10 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:iqragulshaikh454@gmail.com"><img src="https://img.shields.io/badge/Gmail-6A00F4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=10002B" /></a>
-<a href="https://www.linkedin.com/in/iqra-gul-shaikh-6314a92a1"><img src="https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10002B" /></a>
-<a href="https://github.com/iqragulshaikh"><img src="https://img.shields.io/badge/GitHub-7B2CBF?style=for-the-badge&logo=github&logoColor=white&labelColor=10002B" /></a>
-<a href="https://iqra-gul-portfolio-2r1u.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-C77DFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=10002B" /></a>
+<a href="mailto:iqragulshaikh454@gmail.com"><img src="https://img.shields.io/badge/Gmail-0077B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A192F" /></a>
+<a href="https://www.linkedin.com/in/iqra-gul-shaikh-6314a92a1"><img src="https://img.shields.io/badge/LinkedIn-00B4D8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A192F" /></a>
+<a href="https://github.com/iqragulshaikh"><img src="https://img.shields.io/badge/GitHub-0096C7?style=for-the-badge&logo=github&logoColor=white&labelColor=0A192F" /></a>
+<a href="https://iqra-gul-portfolio-2r1u.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-48CAE4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A192F" /></a>
 
 </div>
 
