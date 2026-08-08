@@ -1,429 +1,504 @@
+<!-- IQRA GUL — PREMIUM GITHUB PROFILE README -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=IQRA%20GUL&fontSize=70&fontColor=E0AAFF&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20QA%20%7C%20Public%20Speaker&descAlignY=55&descSize=20&descColor=C77DFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:7c3aed&height=180&section=header&text=IQRA%20GUL&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Data%20Analytics%20Enthusiast%20%7C%20QA&descAlignY=58&descSize=17&animation=twinkling"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+applications;Engineering+AI%2FML+solutions+for+real+problems;Turning+ideas+into+production-ready+products;CGPA+3.94+%7C+Sir+Syed+University+of+Eng.+%26+Tech." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%7C+3.94+CGPA;Fullstack+Developer;Data+Analytics+Enthusiast;QA+%7C+Software+Engineering;AI%2FML+%7C+NLP+%7C+Web+Development;Award-Winning+Public+Speaker" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![CGPA](https://img.shields.io/badge/CGPA-3.94%2F4.00-6A00F4?style=for-the-badge&labelColor=10002B)
-![University](https://img.shields.io/badge/Sir%20Syed%20University-CS%20%2723--%2727-9D4EDD?style=for-the-badge&labelColor=10002B)
-![Location](https://img.shields.io/badge/Karachi-Pakistan-7B2CBF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=10002B)
-
-<br/>
-
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-C77DFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=10002B" /></a>
-<a href="https://linkedin.com/in/REPLACE-WITH-YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10002B" /></a>
-<a href="mailto:iqragulshaikh454@gmail.com"><img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=10002B" /></a>
-<a href="https://github.com/REPLACE-WITH-YOUR-GITHUB"><img src="https://img.shields.io/badge/GitHub-6A00F4?style=for-the-badge&logo=github&logoColor=white&labelColor=10002B" /></a>
+<img src="https://img.shields.io/badge/BSc%20Computer%20Science-2023--2027-6366F1?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/CGPA-3.94-7C3AED?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/QA%20%7C%20STLC-4C1D95?style=for-the-badge&logo=testing-library&logoColor=white"/>
+<img src="https://img.shields.io/badge/Karachi%2C%20Pakistan-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=REPLACE-WITH-YOUR-GITHUB&style=for-the-badge&color=6A00F4&labelColor=10002B)
-![Followers](https://img.shields.io/github/followers/REPLACE-WITH-YOUR-GITHUB?style=for-the-badge&color=7B2CBF&labelColor=10002B&label=Followers)
-![Stars](https://img.shields.io/github/stars/REPLACE-WITH-YOUR-GITHUB?style=for-the-badge&color=9D4EDD&labelColor=10002B&label=Stars)
+<a href="mailto:iqragulshaikh454@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-Profile-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=iqragul&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/iqragul?style=for-the-badge&color=7C3AED&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/iqragul?style=for-the-badge&color=4C1D95&label=STARS"/>
 
 </div>
 
-<br/>
+---
 
-## 🪐 About Me
+## About
 
-<img align="right" width="35%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=C77DFF&width=1&height=1&lines=" />
+I am a **Computer Science student with a 3.94 CGPA** focused on building practical software solutions across full-stack development, data analytics, quality assurance, and AI/ML. I combine strong technical foundations with analytical thinking and proven communication skills developed through competitive diplomacy, public speaking, and technical projects.
 
-I'm a **Computer Science undergraduate** at Sir Syed University of Engineering and Technology (CGPA **3.94**), engineering full-stack web applications and AI/ML-driven systems with a product-focused, engineering-first mindset. My work spans **responsive frontend architecture**, **NLP-based classification systems**, and **QA/test design**, backed by hands-on experience shipping production-ready e-commerce platforms for real clients with **zero post-launch defects**.
+My engineering interests span **responsive web applications, backend systems, relational databases, NLP-driven machine learning, software testing, and data-driven applications**. I approach development with a product mindset: understand the problem, design a reliable solution, build it cleanly, and deliver an experience that works for real users.
 
-Alongside the technical track, I bring a rare edge: **award-winning public speaking and diplomatic negotiation experience** — earning a Special Mention at NEDMUN VI and Best Host honors at SMEC'25 — which sharpens how I communicate technical ideas to both engineering and non-engineering stakeholders.
+I have experience developing and deploying full-stack applications, interactive algorithm visualizers, browser extensions, analytical tools, and machine-learning systems. My academic and professional work includes client-facing development, production-ready e-commerce applications, data analytics simulations, QA practices, and software engineering fundamentals.
 
-```yaml
-role: Aspiring Software Engineer / AI Engineer
-focus: Full-Stack Development, NLP/ML Systems, QA Engineering
-mindset: Ship fast. Ship clean. Zero post-launch defects.
-```
+### Open To
 
-**🎯 Open To:** Software Engineering Internships · Frontend/Full-Stack Roles · AI/ML Research Assistantships · QA & Test Engineering
-
-<br/>
+- Software Engineering Internships
+- Fullstack Development Opportunities
+- Frontend / Backend Development
+- AI / ML & NLP Projects
+- Data Analytics Opportunities
+- QA & Software Testing
+- Collaborative Open Source Projects
 
 ---
 
-## 🧬 Tech Stack
+## Tech Stack
 
-<div align="center">
+### Languages
 
-**Languages**
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,html,css,python,php,cs,mysql" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=js,html,css,python,php,cs&theme=dark" />
+### Frontend
 
-**Frontend**
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,figma&theme=dark" />
+`Responsive UI/UX` · `DOM Manipulation` · `Canvas` · `ES6+`
 
-**Backend & Databases**
+### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,php&theme=dark" />
+<p>
+<img src="https://skillicons.dev/icons?i=php,nodejs,mysql,mongodb" />
+</p>
 
-**Cloud, DevOps & Tooling**
+`RESTful APIs` · `SQL` · `MySQL` · `SQL Server` · `phpMyAdmin` · `Node.js (Basic)` · `MongoDB (Exposure)`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,selenium&theme=dark" />
+### Cloud, DevOps & Tooling
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,jira,selenium" />
+</p>
 
-<br/>
+`GitHub` · `Chrome DevTools` · `Postman` · `Selenium` · `VS Code` · `Figma` · `Canva` · `Jira`
 
 ---
 
-## 🤖 AI / ML Expertise
+## AI / ML Expertise
 
 | Domain | Proficiency | Details |
-|---|:---:|---|
-| **Natural Language Processing** | ⭐⭐⭐⭐☆ | Text classification pipelines, tokenization, stop-word removal, feature extraction |
-| **Data Preprocessing & Cleaning** | ⭐⭐⭐⭐☆ | Built end-to-end pipelines for structured/unstructured misinformation datasets |
-| **Model Training & Evaluation** | ⭐⭐⭐⭐☆ | Trained and tuned classification models optimizing predictive accuracy |
-| **Business Intelligence / Data Analytics** | ⭐⭐⭐⭐☆ | Deloitte Australia simulation — forensic tech & BI pipelines, Tableau dashboards |
-| **Applied AI Foundations** | ⭐⭐⭐☆☆ | Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate |
-
-<br/>
+|---|---|---|
+| Machine Learning | Intermediate | Classification systems, model training and evaluation |
+| Natural Language Processing | Intermediate | Tokenization, stop-word removal and feature extraction |
+| Data Preprocessing | Intermediate | Cleaning and preparing textual datasets |
+| AI Foundations | Intermediate | AI concepts, analytical problem solving and applied systems |
+| Rule-Based AI | Intermediate | Conditional routing and structured conversational logic |
+| Data Analytics | Intermediate | Data interpretation, dashboards and business insights |
+| Data Visualization | Intermediate | Interactive Tableau dashboards and visual analytics |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details>
-<summary><strong>🗞️ Fake News Detection System (VerifyNow)</strong></summary>
-<br/>
+<summary><strong>01 · VerifyNow — Fake News Detection System</strong></summary>
 
-An NLP-powered classification system that flags articles as authentic or fabricated to help curb the spread of online misinformation.
+### Fake News Detection System
 
-| Aspect | Detail |
+An NLP-powered machine learning system designed to classify news articles as **authentic or fabricated**. The project focuses on text preprocessing, feature extraction, model training, and evaluation to support the identification of online misinformation.
+
+| Attribute | Details |
 |---|---|
-| **Stack** | Python, NLP (tokenization, feature extraction), ML classification models |
-| **Scale** | Multi-source article dataset with full preprocessing pipeline |
-| **Performance** | Iteratively tuned for optimized predictive accuracy |
-| **Security** | Clean input sanitization within preprocessing pipeline |
-| **Impact** | Reduces exposure to fabricated news content |
-| **Repository** | `https://github.com/REPLACE-WITH-YOUR-GITHUB/verifynow` |
+| **Stack** | Python · NLP · Machine Learning |
+| **Scale** | Text classification pipeline |
+| **Performance** | Classification model evaluation and accuracy optimization |
+| **Security** | Designed to support misinformation identification |
+| **Impact** | Helps distinguish authentic and fabricated articles |
+| **Repository** | [GitHub Profile](https://github.com/) |
 
-Engineered the full pipeline from raw text ingestion through cleaning, tokenization, and stop-word removal, to feature extraction and model training — with an emphasis on maximizing classification accuracy on real-world, noisy news data.
+**Engineering Scope**
+
+- Built data cleaning and text preprocessing pipelines.
+- Implemented tokenization and stop-word removal.
+- Performed feature extraction for textual data.
+- Trained and evaluated classification models.
+- Optimized predictive accuracy for misinformation classification.
 
 </details>
 
 <details>
-<summary><strong>⏱️ CPU Scheduling Visualizer (Live Web App)</strong></summary>
-<br/>
+<summary><strong>02 · CPU Scheduling Visualizer</strong></summary>
 
-An interactive, browser-based visualizer for core OS scheduling algorithms, built for academic learning and technical interview prep.
+### CPU Scheduling Visualizer — Live Web App
 
-| Aspect | Detail |
+An interactive web application that visually demonstrates fundamental CPU scheduling algorithms for students, learners, and technical interview preparation.
+
+| Attribute | Details |
 |---|---|
-| **Stack** | JavaScript, HTML5, CSS3 |
-| **Scale** | FCFS, SJF, Priority, and Round Robin algorithms |
-| **Performance** | Real-time execution timeline rendering |
-| **Security** | Client-side only, no external data dependencies |
-| **Impact** | Live public tool with an active learner user base |
-| **Repository** | `https://github.com/REPLACE-WITH-YOUR-GITHUB/cpu-scheduling-visualizer` |
+| **Stack** | JavaScript · HTML5 · CSS3 |
+| **Scale** | Interactive scheduling simulation |
+| **Performance** | Real-time algorithmic state rendering |
+| **Security** | Client-side educational application |
+| **Impact** | Academic learning and technical interview preparation |
+| **Repository** | [GitHub Profile](https://github.com/) |
 
-Structured real-time algorithmic state rendering to map execution timelines, context switching, and wait-time statistics, deployed live for public and academic use.
+**Engineering Scope**
+
+- Implemented FCFS, SJF, Priority, and Round Robin scheduling.
+- Created real-time execution timeline rendering.
+- Visualized context switching and wait-time statistics.
+- Deployed the application online.
+- Built an active user base around academic learning.
 
 </details>
 
 <details>
-<summary><strong>🧩 To-Do Chrome Extension</strong></summary>
-<br/>
+<summary><strong>03 · To-Do Chrome Extension</strong></summary>
 
-A persistent sidebar browser extension with real-time state management and deep personalization.
+### To-Do Chrome Extension
 
-| Aspect | Detail |
+A persistent browser-based task management extension built around real-time state management and personalized user configuration.
+
+| Attribute | Details |
 |---|---|
-| **Stack** | JavaScript, HTML5, CSS3, Chrome Extension APIs |
-| **Scale** | Persistent cross-session sidebar state |
-| **Performance** | Real-time UI updates via reactive state management |
-| **Security** | Local browser-scoped storage |
-| **Impact** | Daily-use productivity tool with customizable UX |
-| **Repository** | `https://github.com/REPLACE-WITH-YOUR-GITHUB/todo-chrome-extension` |
+| **Stack** | JavaScript · Chrome Extension APIs · HTML5 · CSS3 |
+| **Scale** | Browser-based productivity application |
+| **Performance** | Persistent real-time state management |
+| **Security** | Client-side browser extension architecture |
+| **Impact** | Task organization and productivity |
+| **Repository** | [GitHub Profile](https://github.com/) |
 
-Programmed client-side customization including dynamic dark/light mode toggling, theme color switching, and background personalization.
+**Engineering Scope**
+
+- Built persistent task management functionality.
+- Implemented pending and completed task states.
+- Added dynamic dark/light mode switching.
+- Added customizable theme colors.
+- Implemented floating icon customization.
+- Added personalized background configuration.
 
 </details>
 
 <details>
-<summary><strong>☕ Coffee Shop Website (Full Stack)</strong></summary>
-<br/>
+<summary><strong>04 · Coffee Shop Website</strong></summary>
 
-A fully responsive full-stack e-commerce-style website with a secure relational backend.
+### Coffee Shop Website — Full Stack
 
-| Aspect | Detail |
+A responsive full-stack coffee shop platform combining a JavaScript-based frontend with PHP and SQL backend functionality.
+
+| Attribute | Details |
 |---|---|
-| **Stack** | JavaScript, HTML5, CSS3, PHP, SQL |
-| **Scale** | Full relational product/database schema |
-| **Performance** | Optimized responsive layouts across devices |
-| **Security** | Secure PHP/SQL backend content management |
-| **Impact** | End-to-end product display and management system |
-| **Repository** | `https://github.com/REPLACE-WITH-YOUR-GITHUB/coffee-shop-website` |
+| **Stack** | JavaScript · HTML5 · CSS3 · PHP · SQL |
+| **Scale** | Full-stack web application |
+| **Performance** | Responsive product display |
+| **Security** | Relational backend data management |
+| **Impact** | End-to-end product management experience |
+| **Repository** | [GitHub Profile](https://github.com/) |
 
-Engineered a relational database schema and backend content system using PHP and SQL to securely manage product data behind a responsive JavaScript front end.
+**Engineering Scope**
+
+- Developed a responsive frontend.
+- Created seamless product displays.
+- Designed a relational database schema.
+- Built backend content management functionality.
+- Used PHP and SQL to manage product data.
 
 </details>
 
 <details>
-<summary><strong>🎯 Focus Timer (Web App)</strong></summary>
-<br/>
+<summary><strong>05 · Color Theory Playground</strong></summary>
 
-A client-side productivity app with custom focus/break intervals and audio alerts.
+### Color Theory Playground
 
-| Aspect | Detail |
+An interactive visual application exploring color harmony and Josef Albers-style color contrast mechanics.
+
+| Attribute | Details |
 |---|---|
-| **Stack** | JavaScript (ES6+), Web Audio API |
-| **Scale** | Custom interval configuration engine |
-| **Performance** | Async audio API integration for real-time alerts |
-| **Security** | Fully client-side, no data persistence risk |
-| **Impact** | Improves focused work/break discipline |
-| **Repository** | `https://github.com/REPLACE-WITH-YOUR-GITHUB/focus-timer` |
+| **Stack** | JavaScript · HTML5 · CSS3 · Canvas |
+| **Scale** | Interactive visual experimentation platform |
+| **Performance** | Dynamic canvas rendering |
+| **Security** | Client-side application |
+| **Impact** | Practical exploration of color relationships |
+| **Repository** | [GitHub Profile](https://github.com/) |
 
-Integrated asynchronous audio APIs for real-time alerts alongside dynamic DOM manipulation for a smooth, distraction-free timer experience.
+**Engineering Scope**
+
+- Implemented color harmony algorithms.
+- Developed Josef Albers-style contrast mechanics.
+- Built image-based color extraction.
+- Generated cohesive palettes dynamically.
+- Used canvas rendering for visual experimentation.
 
 </details>
 
 <details>
-<summary><strong>🎨 Color Theory Playground (Web App)</strong></summary>
-<br/>
+<summary><strong>06 · Focus Timer</strong></summary>
 
-An interactive app exploring color harmony algorithms and Josef Albers-style contrast mechanics.
+### Focus Timer — Web App
 
-| Aspect | Detail |
+A responsive productivity application designed around customizable focus and break intervals with real-time audio alerts.
+
+| Attribute | Details |
 |---|---|
-| **Stack** | JavaScript, HTML5 Canvas, CSS3 |
-| **Scale** | Canvas-based dynamic palette generation |
-| **Performance** | Real-time color extraction and rendering |
-| **Security** | N/A — client-side visualization tool |
-| **Impact** | Educational tool for design/color theory learners |
-| **Repository** | `https://github.com/REPLACE-WITH-YOUR-GITHUB/color-theory-playground` |
+| **Stack** | JavaScript ES6+ · HTML5 · CSS3 · Audio APIs |
+| **Scale** | Client-side productivity application |
+| **Performance** | Real-time timer and asynchronous alerts |
+| **Security** | Client-side architecture |
+| **Impact** | Focus and productivity management |
+| **Repository** | [GitHub Profile](https://github.com/) |
 
-Implemented canvas-based color extraction to dynamically generate cohesive palettes, rendering color harmony algorithms in an interactive playground.
+**Engineering Scope**
+
+- Implemented custom focus intervals.
+- Added configurable break intervals.
+- Integrated asynchronous audio APIs.
+- Implemented dynamic DOM manipulation.
+- Built a responsive user interface.
 
 </details>
 
 <details>
-<summary><strong>🎓 GPA Calculator (Web App)</strong></summary>
-<br/>
+<summary><strong>07 · GPA Calculator</strong></summary>
 
-A vanilla JavaScript calculation engine for multi-semester and cumulative GPA tracking.
+### GPA Calculator — Web App
 
-| Aspect | Detail |
+An interactive academic calculation tool designed to calculate weighted semester and cumulative GPA values.
+
+| Attribute | Details |
 |---|---|
-| **Stack** | Vanilla JavaScript, HTML5, CSS3 |
-| **Scale** | Weighted multi-semester calculation logic |
-| **Performance** | Instant client-side computation |
-| **Security** | No external data transmission |
-| **Impact** | Practical academic planning utility |
-| **Repository** | `https://github.com/REPLACE-WITH-YOUR-GITHUB/gpa-calculator` |
+| **Stack** | JavaScript · HTML5 · CSS3 |
+| **Scale** | Multi-semester GPA calculator |
+| **Performance** | Real-time client-side calculations |
+| **Security** | Client-side application |
+| **Impact** | Academic planning and GPA tracking |
+| **Repository** | [GitHub Profile](https://github.com/) |
 
-Programmed an interactive calculation engine in vanilla JavaScript to track weighted GPA across multiple semesters and cumulatively.
+**Engineering Scope**
+
+- Built an interactive calculation engine.
+- Implemented weighted GPA calculations.
+- Added multi-semester tracking.
+- Supported cumulative GPA calculations.
+- Designed a user-friendly interface.
 
 </details>
 
 <details>
-<summary><strong>💬 Chatbot (Python)</strong></summary>
-<br/>
+<summary><strong>08 · Rule-Based Chatbot</strong></summary>
 
-A rule-based conversational agent built on structured conditional routing.
+### Chatbot — Python
 
-| Aspect | Detail |
+A rule-based conversational agent using structured conditional routing to support multi-turn dialogue trees.
+
+| Attribute | Details |
 |---|---|
 | **Stack** | Python |
-| **Scale** | Multi-turn dialogue tree architecture |
-| **Performance** | Deterministic conditional routing |
-| **Security** | N/A — local rule-based logic |
-| **Impact** | Foundation project for conversational AI concepts |
-| **Repository** | `https://github.com/REPLACE-WITH-YOUR-GITHUB/python-chatbot` |
+| **Scale** | Rule-based conversational system |
+| **Performance** | Structured conditional dialogue routing |
+| **Security** | Controlled rule-based responses |
+| **Impact** | Applied foundational conversational AI concepts |
+| **Repository** | [GitHub Profile](https://github.com/) |
 
-Architected a rule-based conversational agent using structured conditional routing to handle multi-turn dialogue trees.
+**Engineering Scope**
+
+- Designed structured conversation flows.
+- Implemented conditional routing.
+- Built multi-turn dialogue trees.
+- Applied foundational rule-based AI concepts.
 
 </details>
 
-<br/>
+---
+
+## Experience
+
+### Frontend Developer Intern — Developers Hub
+
+**June 2026**
+
+- Built and deployed **4+ responsive, production-ready e-commerce web applications** for real-world clients.
+- Delivered projects on schedule with zero reported post-launch defects.
+- Led frontend development across multiple client projects.
+- Engineered responsive e-commerce platforms with pixel-perfect layouts across devices.
+- Collaborated directly with clients to translate requirements into working features.
+- Improved page responsiveness and cross-device consistency.
+
+**Skills:** `Frontend Development` `JavaScript` `Responsive UI` `Client Collaboration` `E-Commerce` `QA`
 
 ---
 
-## 💼 Experience
+## Co-Curricular & Leadership
 
-### Frontend Developer Intern @ Developers Hub
-`June 2026`
+### Delegate — NEDMUN VI
 
-Led front-end development across live client projects, engineering fully functional, responsive e-commerce platforms with pixel-perfect design across all devices.
+**January 2026**
 
-**Scope of Work:**
-- Built and deployed 4+ responsive, production-ready e-commerce web applications for real-world clients, each shipped on schedule with zero post-launch defects
-- Engineered pixel-perfect, cross-device responsive UI for client-facing e-commerce platforms
-- Collaborated directly with clients to translate requirements into working features, improving page responsiveness and cross-device consistency
+- Represented Afghanistan in the Special Political and Decolonization Committee.
+- Debated cross-border geopolitical challenges.
+- Awarded **Special Mention** for exceptional negotiation, policy delivery, and diplomatic communication.
 
-`JavaScript` `HTML5` `CSS3` `Responsive Design` `Client Collaboration`
+### Event Host — SMEC'25
 
-<br/>
+**January 2025**
+
+- Hosted an academic and professional event for **200+ attendees**.
+- Awarded **Best Host** for stage command and audience management.
+
+### Deloitte Australia Data Analytics Job Simulation — Forage
+
+**August 2025**
+
+- Completed a virtual data analytics simulation focused on forensic technology and business intelligence pipelines.
+- Constructed interactive Tableau dashboards.
+- Translated multi-layered data into actionable business conclusions.
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| 🥇 **Special Mention — NEDMUN VI** | Special Political and Decolonization Committee, representing Afghanistan (Jan 2026) |
-| 🎤 **Best Host — SMEC '25** | Hosted an academic/professional event for 200+ attendees (Jan 2025) |
-| 📊 **Deloitte Australia Data Analytics Simulation** | Forage — forensic technology & BI pipeline simulation (Aug 2025) |
-| 🎓 **3.94 CGPA** | Sir Syed University of Engineering and Technology, BS Computer Science |
+| **3.94 CGPA** | Bachelor of Science in Computer Science |
+| **Special Mention — NEDMUN VI** | Recognized for negotiation, policy delivery and diplomatic communication |
+| **Best Host — SMEC'25** | Recognized for stage command and audience management |
+| **4+ Production Applications** | Built and deployed responsive e-commerce applications during internship |
+| **200+ Event Audience** | Hosted an academic and professional event |
 
 </div>
 
-<br/>
+---
+
+## Certifications
+
+### Cisco
+
+<img src="https://img.shields.io/badge/CCNA%3A%20Introduction%20to%20Networks-2026-1E40AF?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+### Oracle
+
+<img src="https://img.shields.io/badge/OCI%202025%20AI%20Foundations%20Associate-2025-F43F5E?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+### McKinsey & Company
+
+<img src="https://img.shields.io/badge/McKinsey.org%20Forward%20Program-2025-4C1D95?style=for-the-badge"/>
+
+### Deloitte / Forage
+
+<img src="https://img.shields.io/badge/Deloitte%20Data%20Analytics%20Job%20Simulation-2025-7C3AED?style=for-the-badge"/>
+
+### Google Developer Groups
+
+<img src="https://img.shields.io/badge/Folio3%20AI%20Workshop-2025-6366F1?style=for-the-badge&logo=google&logoColor=white"/>
+
+### CosmiCode
+
+<img src="https://img.shields.io/badge/Python%20Mastering%20eBook-2025-312E81?style=for-the-badge&logo=python&logoColor=white"/>
 
 ---
 
-## 📜 Certifications
-
-**Cisco**
-
-![CCNA](https://img.shields.io/badge/CCNA-Introduction%20to%20Networks-6A00F4?style=for-the-badge&logo=cisco&logoColor=white&labelColor=10002B)
-
-**Oracle**
-
-![Oracle](https://img.shields.io/badge/OCI%202025-Certified%20AI%20Foundations%20Associate-9D4EDD?style=for-the-badge&logo=oracle&logoColor=white&labelColor=10002B)
-
-**McKinsey & Company**
-
-![McKinsey](https://img.shields.io/badge/McKinsey.org-Forward%20Program-7B2CBF?style=for-the-badge&labelColor=10002B)
-
-**Forage**
-
-![Forage](https://img.shields.io/badge/Deloitte%20Australia-Data%20Analytics%20Job%20Simulation-C77DFF?style=for-the-badge&labelColor=10002B)
-
-**Google Developer Groups**
-
-![GDG](https://img.shields.io/badge/Folio3-AI%20Workshop-6A00F4?style=for-the-badge&logo=google&logoColor=white&labelColor=10002B)
-
-**CosmiCode**
-
-![CosmiCode](https://img.shields.io/badge/Python%20Mastering-eBook-9D4EDD?style=for-the-badge&logo=python&logoColor=white&labelColor=10002B)
-
-<br/>
-
----
-
-## 🧠 Coding Profiles
+## Coding Profiles
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-REPLACE--WITH--USERNAME-6A00F4?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=10002B)](https://leetcode.com/REPLACE-WITH-YOUR-USERNAME)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-REPLACE--WITH--USERNAME-9D4EDD?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=10002B)](https://geeksforgeeks.org/user/REPLACE-WITH-YOUR-USERNAME)
-[![HackerRank](https://img.shields.io/badge/HackerRank-REPLACE--WITH--USERNAME-7B2CBF?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=10002B)](https://hackerrank.com/REPLACE-WITH-YOUR-USERNAME)
-[![CodeChef](https://img.shields.io/badge/CodeChef-REPLACE--WITH--USERNAME-C77DFF?style=for-the-badge&logo=codechef&logoColor=white&labelColor=10002B)](https://codechef.com/users/REPLACE-WITH-YOUR-USERNAME)
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
 
 </div>
 
-<br/>
-
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=REPLACE-WITH-YOUR-GITHUB&show_icons=true&theme=radical&hide_border=true&bg_color=10002B&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=REPLACE-WITH-YOUR-GITHUB&theme=radical&hide_border=true&background=10002B&stroke=9D4EDD&ring=C77DFF&fire=C77DFF&currStreakLabel=E0AAFF" width="48%"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=iqragul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C4B5FD"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE-WITH-YOUR-GITHUB&layout=compact&theme=radical&hide_border=true&bg_color=10002B&title_color=C77DFF&text_color=E0AAFF" width="48%"/>
-
-</div>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqragul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD"/>
 
 <br/>
 
+<img width="700" src="https://streak-stats.demolab.com?user=iqragul&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=C4B5FD"/>
+
+</div>
+
 ---
 
-## 🏅 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=REPLACE-WITH-YOUR-GITHUB&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=iqragul&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
-<br/>
-
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=REPLACE-WITH-YOUR-GITHUB&theme=redical&bg_color=10002B&color=C77DFF&line=9D4EDD&point=E0AAFF&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iqragul&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=6366F1&area=true&hide_border=true"/>
 
 </div>
 
-<br/>
-
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/REPLACE-WITH-YOUR-GITHUB/REPLACE-WITH-YOUR-GITHUB/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/iqragul/iqragul/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
-<br/>
-
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 Learning:
-  - Advanced NLP & Deep Learning Architectures
-  - System Design Fundamentals
-  - Cloud-Native Application Development
+  - Advanced C# and .NET
+  - Software Engineering Practices
+  - AI / ML and NLP
+  - Data Analytics
+  - Quality Assurance and Testing
 
 Building:
-  - AI-powered developer tooling
-  - Scalable full-stack product prototypes
+  - Full-stack web applications
+  - AI-powered applications
+  - Data-driven developer tools
+  - Practical productivity solutions
 
 Exploring:
-  - MLOps & Model Deployment Pipelines
-  - Test Automation at Scale
+  - Backend Engineering
+  - RESTful APIs
+  - Cloud Technologies
+  - Automation
+  - Product Engineering
 
 Open To:
   - Software Engineering Internships
-  - Full-Stack / Frontend Roles
-  - AI/ML Research Opportunities
-  - QA & Test Engineering Roles
-```
-
-<br/>
-
----
-
-## 📬 Connect
-
-<div align="center">
-
-<a href="mailto:iqragulshaikh454@gmail.com"><img src="https://img.shields.io/badge/Gmail-6A00F4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=10002B" /></a>
-<a href="https://linkedin.com/in/REPLACE-WITH-YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10002B" /></a>
-<a href="https://github.com/REPLACE-WITH-YOUR-GITHUB"><img src="https://img.shields.io/badge/GitHub-7B2CBF?style=for-the-badge&logo=github&logoColor=white&labelColor=10002B" /></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-C77DFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=10002B" /></a>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-*"Engineering clean code by day, commanding the stage by night."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
-
-</div>
+  - Fullstack Development
+  - AI / ML Projects
+  - Data Analytics
+  - QA / Software Testing
+  - Open Source Collaboration
