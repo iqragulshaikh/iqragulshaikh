@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Contribution Brick Breaker</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            background-color: #0d1117;
+            color: #c9d1d9;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+        }
+        .header {
+            margin-bottom: 15px;
+            text-align: center;
+        }
+        .stats {
+            display: flex;
+            gap: 20px;
+            font-size: 16px;
+            font-weight: 600;
+            margin-top: 5px;
+            color: #8b949e;
+        }
+        .stats span { color: #3fb950; }
+        canvas {
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 8px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            display: block;
+        }
+        .controls {
+            margin-top: 15px;
+            display: flex;
+            gap: 10px;
+        }
+        button {
+            background-color: #238636;
+            color: #ffffff;
+            border: none;
+            padding: 8px 16px;
+            font-size: 14px;
+            font-weight: 600;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+        button:hover { background-color: #2ea043; }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h2>🎮 Contribution Grid Brick Breaker</h2>
+        <div class="stats">
+            <div>SCORE: <span id="score">0</span></div>
+            <div>STATUS: <span id="status">PRESS PLAY</span></div>
+        </div>
+    </div>
+
+    <canvas id="gameCanvas" width="700" height="300"></canvas>
+
+    <div class="controls">
+        <button id="startBtn" onclick="startGame()">PLAY</button>
+        <button onclick="resetGame()">RESET</button>
+    </div>
+
+    <script>
+        const canvas = document.getElementById("gameCanvas");
+        const ctx = canvas.getContext("2d");
+
+        // GitHub Contribution Green Palette
+        const SHADES = {
+            DARKEST: "#0e4429", // Takes 2 hits (Turn 1: becomes Medium, Turn 2: Destroyed)
+            MEDIUM: "#006d32",  // Takes 1 hit
+            LIGHT: "#26a641",   // Takes 1 hit
+            LIGHTEST: "#39d353" // Takes 1 hit
+        };
+
+        // Grid Dimensions (Matching GitHub Graph Ratio)
+        const rowCount = 7;
+        const colCount = 28;
+        const brickPadding = 4;
+        const brickOffsetTop = 20;
+        const brickOffsetLeft = 20;
+        const brickWidth = (canvas.width - (brickOffsetLeft * 2) - (brickPadding * colCount)) / colCount;
+        const brickHeight = 14;
+
+        // --- Ball speed tuning ---
+        const BASE_SPEED = 4;       // starting speed
+        const MAX_SPEED = 9;        // speed cap so it never gets unplayable
+        const SPEED_STEP = 0.15;    // how much speed increases per paddle hit
+
+        // Game Entities
+        let paddle = {
+            x: canvas.width / 2 - 40,
+            targetX: canvas.width / 2 - 40, // where the mouse wants it to be
+            width: 80,
+            height: 10,
+            speed: 7,
+            dx: 0,
+            smoothing: 0.25 // higher = snappier, lower = smoother/floatier
+        };
+        let ball = { x: canvas.width / 2, y: canvas.height - 30, radius: 5, speed: BASE_SPEED, dx: BASE_SPEED, dy: -BASE_SPEED };
+        let bricks = [];
+        let score = 0;
+        let gameRunning = false;
+        let ballAttached = true; // ball sits on paddle and follows it until launched
+        let animationId;
+
+        // Keep the ball glued to the center of the paddle
+        function attachBallToPaddle() {
+            ball.x = paddle.x + paddle.width / 2;
+            ball.y = canvas.height - paddle.height - 10 - ball.radius;
+        }
+
+        // Initialize Brick Grid
+        function initBricks() {
+            bricks = [];
+            const shadesList = [SHADES.DARKEST, SHADES.MEDIUM, SHADES.LIGHT, SHADES.LIGHTEST];
+            for (let c = 0; c < colCount; c++) {
+                bricks[c] = [];
+                for (let r = 0; r < rowCount; r++) {
+                    // Random assignment of shades
+                    let randomShade = shadesList[Math.floor(Math.random() * shadesList.length)];
+                    // Darkest blocks have 2 health points, others have 1
+                    let hp = (randomShade === SHADES.DARKEST) ? 2 : 1; 
+                    bricks[c][r] = { x: 0, y: 0, color: randomShade, hp: hp, status: 1 };
+                }
+            }
+        }
+
+        // Draw Bricks
+        function drawBricks() {
+            for (let c = 0; c < colCount; c++) {
+                for (let r = 0; r < rowCount; r++) {
+                    let b = bricks[c][r];
+                    if (b.status === 1) {
+                        let brickX = (c * (brickWidth + brickPadding)) + brickOffsetLeft;
+                        let brickY = (r * (brickHeight + brickPadding)) + brickOffsetTop;
+                        b.x = brickX;
+                        b.y = brickY;
+                        
+                        ctx.beginPath();
+                        ctx.roundRect(brickX, brickY, brickWidth, brickHeight, 2);
+                        ctx.fillStyle = b.color;
+                        ctx.fill();
+                        ctx.closePath();
+                    }
+                }
+            }
+        }
+
+        // Draw Paddle
+        function drawPaddle() {
+            ctx.beginPath();
+            ctx.roundRect(paddle.x, canvas.height - paddle.height - 10, paddle.width, paddle.height, 4);
+            ctx.fillStyle = "#c9d1d9";
+            ctx.fill();
+            ctx.closePath();
+        }
+
+        // Draw Ball
+        function drawBall() {
+            ctx.beginPath();
+            ctx.arc(ball.x, ball.y, ball.radius, 0, Math.PI * 2);
+            ctx.fillStyle = "#ffffff";
+            ctx.shadowBlur = 8;
+            ctx.shadowColor = "#3fb950";
+            ctx.fill();
+            ctx.shadowBlur = 0;
+            ctx.closePath();
+        }
+
+        // Collision Logic
+        function collisionDetection() {
+            for (let c = 0; c < colCount; c++) {
+                for (let r = 0; r < rowCount; r++) {
+                    let b = bricks[c][r];
+                    if (b.status === 1) {
+                        if (ball.x > b.x && ball.x < b.x + brickWidth && ball.y > b.y && ball.y < b.y + brickHeight) {
+                            ball.dy = -ball.dy;
+                            b.hp -= 1;
+                            score += 10;
+                            document.getElementById("score").innerText = score;
+
+                            // Lighten dark block on first hit
+                            if (b.hp === 1 && b.color === SHADES.DARKEST) {
+                                b.color = SHADES.LIGHT; // Lightens after first hit
+                            } else if (b.hp <= 0) {
+                                b.status = 0; // Completely removed on 2nd hit (or 1st hit for light blocks)
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        // Game Loop — runs continuously (even before launch / after game over)
+        // so the paddle and the attached ball always respond smoothly to hover.
+        function update() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+            // Smoothly ease paddle toward the mouse/keyboard target
+            paddle.x += (paddle.targetX - paddle.x) * paddle.smoothing;
+
+            // Keyboard paddle movement updates the target directly
+            paddle.targetX += paddle.dx;
+            if (paddle.targetX < 0) paddle.targetX = 0;
+            if (paddle.targetX + paddle.width > canvas.width) paddle.targetX = canvas.width - paddle.width;
+
+            // Keep visual paddle within bounds too (in case of fast easing overshoot)
+            if (paddle.x < 0) paddle.x = 0;
+            if (paddle.x + paddle.width > canvas.width) paddle.x = canvas.width - paddle.width;
+
+            if (ballAttached) {
+                // Ball rides on the paddle, waiting to be launched
+                attachBallToPaddle();
+            } else if (gameRunning) {
+                // Ball Movement & Wall Collisions
+                ball.x += ball.dx;
+                ball.y += ball.dy;
+
+                if (ball.x + ball.radius > canvas.width || ball.x - ball.radius < 0) {
+                    ball.dx = -ball.dx;
+                }
+                if (ball.y - ball.radius < 0) {
+                    ball.dy = -ball.dy;
+                } else if (ball.y + ball.radius > canvas.height - 10) {
+                    // Paddle Bounce
+                    if (ball.x > paddle.x && ball.x < paddle.x + paddle.width) {
+                        // Where on the paddle did it hit? -1 = far left edge, 0 = center, 1 = far right edge
+                        let hitPos = (ball.x - (paddle.x + paddle.width / 2)) / (paddle.width / 2);
+
+                        // Increase speed a little each hit, capped at MAX_SPEED
+                        ball.speed = Math.min(ball.speed + SPEED_STEP, MAX_SPEED);
+
+                        // New angle: hitting near the edges sends the ball off sharper
+                        let angle = hitPos * (Math.PI / 3); // max 60 degrees from vertical
+                        ball.dx = ball.speed * Math.sin(angle);
+                        ball.dy = -Math.abs(ball.speed * Math.cos(angle));
+
+                        // keep ball just above paddle so it doesn't get stuck inside it
+                        ball.y = canvas.height - paddle.height - 10 - ball.radius;
+                    } else {
+                        // Game Over — ball snaps back onto the paddle, ready for next launch
+                        gameRunning = false;
+                        ballAttached = true;
+                        document.getElementById("status").innerText = "GAME OVER — PRESS PLAY";
+                    }
+                }
+
+                collisionDetection();
+            }
+
+            drawBricks();
+            drawPaddle();
+            drawBall();
+
+            animationId = requestAnimationFrame(update);
+        }
+
+        // Controls
+        document.addEventListener("keydown", (e) => {
+            if (e.key === "Right" || e.key === "ArrowRight") paddle.dx = paddle.speed;
+            else if (e.key === "Left" || e.key === "ArrowLeft") paddle.dx = -paddle.speed;
+        });
+
+        document.addEventListener("keyup", (e) => {
+            if (e.key === "Right" || e.key === "ArrowRight" || e.key === "Left" || e.key === "ArrowLeft") {
+                paddle.dx = 0;
+            }
+        });
+
+        // Mouse Move Paddle Support — scale-correct + eased in the game loop
+        canvas.addEventListener("mousemove", (e) => {
+            const rect = canvas.getBoundingClientRect();
+            // Account for any CSS scaling between the canvas's internal resolution
+            // and its displayed size (this is what was causing the "jumpy" feel).
+            const scaleX = canvas.width / rect.width;
+            const relativeX = (e.clientX - rect.left) * scaleX;
+
+            let target = relativeX - paddle.width / 2;
+            if (target < 0) target = 0;
+            if (target + paddle.width > canvas.width) target = canvas.width - paddle.width;
+            paddle.targetX = target;
+        });
+
+        function startGame() {
+            if (ballAttached) {
+                // Launch the ball from wherever it's currently sitting on the paddle
+                ballAttached = false;
+                gameRunning = true;
+                ball.speed = BASE_SPEED;
+                ball.dx = BASE_SPEED * (Math.random() < 0.5 ? -1 : 1);
+                ball.dy = -BASE_SPEED;
+                document.getElementById("status").innerText = "PLAYING";
+            }
+        }
+
+        function resetGame() {
+            gameRunning = false;
+            ballAttached = true;
+            score = 0;
+            document.getElementById("score").innerText = "0";
+            document.getElementById("status").innerText = "PRESS PLAY";
+            ball.speed = BASE_SPEED;
+            ball.dx = BASE_SPEED;
+            ball.dy = -BASE_SPEED;
+            paddle.x = canvas.width / 2 - 40;
+            paddle.targetX = canvas.width / 2 - 40;
+            initBricks();
+        }
+
+        // Initial setup — the loop always runs, so paddle/ball hover works
+        // immediately, even before the first PLAY click.
+        initBricks();
+        update();
+    </script>
+</body>
+</html>
