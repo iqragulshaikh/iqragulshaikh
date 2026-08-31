@@ -44,7 +44,9 @@ mindset: Ship fast. Ship clean. Zero post-launch defects.
 **🎯 Open To:** Software Engineering Internships · Frontend/Full-Stack Roles · AI/ML Research Assistantships · QA & Test Engineering
 
 <br/>
+
 ---
+# 🐍 Contribution Snake
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/output/github-contribution-grid-snake-dark.svg">
