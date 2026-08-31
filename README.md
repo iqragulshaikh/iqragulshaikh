@@ -404,24 +404,6 @@ Led front-end development across live client projects, engineering fully functio
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/output/dist/ocean-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/output/dist/ocean-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/output/dist/ocean-snake.svg" width="90%"/>
-</picture>
-
-<sub>⚠️ This only appears after you add the workflow below and it runs once — see setup instructions I'm sending next.</sub>
-
-</div>
-
-<br/>
-
----
-
 ## 🎯 Current Focus
 
 ```yaml
