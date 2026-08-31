@@ -45,16 +45,22 @@ mindset: Ship fast. Ship clean. Zero post-launch defects.
 
 <br/>
 ---
+<!-- Interactive Game Section -->
 <div align="center">
   <br />
-  <iframe 
-    src="https://iqragulshaikh.github.io/iqragulshaikh/game.html" 
-    width="720" 
-    height="420" 
-    frameborder="0" 
-    scrolling="no"
-    style="border-radius: 8px; border: 1px solid #30363d;">
-  </iframe>
+  <p><b>🎮 MINI ARCADE: GITHUB CONTRIBUTION BRICK BREAKER</b></p>
+
+  <a href="https://iqragulshaikh.github.io/iqragulshaikh/game.html" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_NOW-238636?style=for-the-badge&logo=github&logoColor=white" alt="Play Game Button" />
+  </a>
+  
+  <br /><br />
+
+  <a href="https://iqragulshaikh.github.io/iqragulshaikh/game.html" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0e4429&height=180&section=header&text=Click%20To%20Play%20Brick%20Breaker%20🎮&fontSize=24&fontColor=39d353&animation=twinkle" width="100%" alt="Game Banner" />
+  </a>
+
+  <p><sub><i>Click the banner above to launch and play directly!</i></sub></p>
   <br />
 </div>
 ---
