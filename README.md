@@ -44,7 +44,19 @@ mindset: Ship fast. Ship clean. Zero post-launch defects.
 **🎯 Open To:** Software Engineering Internships · Frontend/Full-Stack Roles · AI/ML Research Assistantships · QA & Test Engineering
 
 <br/>
-
+---
+<div align="center">
+  <br />
+  <iframe 
+    src="https://iqragulshaikh.github.io/iqragulshaikh/game.html" 
+    width="720" 
+    height="420" 
+    frameborder="0" 
+    scrolling="no"
+    style="border-radius: 8px; border: 1px solid #30363d;">
+  </iframe>
+  <br />
+</div>
 ---
 
 ## 🧬 Tech Stack
