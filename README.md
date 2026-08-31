@@ -45,12 +45,11 @@ mindset: Ship fast. Ship clean. Zero post-launch defects.
 
 <br/>
 ---
-<!-- Interactive Game Section -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/output/github-snake.svg">
-    <img alt="github contribution grid snake game" src="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/output/github-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake game" src="https://raw.githubusercontent.com/iqragulshaikh/iqragulshaikh/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 ---
