@@ -7,8 +7,6 @@
 </a>
 
 <br/>
-
-![CGPA](https://img.shields.io/badge/CGPA-3.94%2F4.00-0077B6?style=for-the-badge&labelColor=0A192F)
 ![University](https://img.shields.io/badge/Sir%20Syed%20University-CS%20%2723--%2727-00B4D8?style=for-the-badge&labelColor=0A192F)
 ![Location](https://img.shields.io/badge/Karachi-Pakistan-0096C7?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0A192F)
 
@@ -17,15 +15,8 @@
 <a href="https://iqra-gul-portfolio-2r1u.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-48CAE4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A192F" /></a>
 <a href="https://www.linkedin.com/in/iqra-gul-shaikh-6314a92a1"><img src="https://img.shields.io/badge/LinkedIn-00B4D8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A192F" /></a>
 <a href="mailto:iqragulshaikh454@gmail.com"><img src="https://img.shields.io/badge/Email-0096C7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A192F" /></a>
-<a href="https://github.com/iqragulshaikh"><img src="https://img.shields.io/badge/GitHub-0077B6?style=for-the-badge&logo=github&logoColor=white&labelColor=0A192F" /></a>
 
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=iqragulshaikh&style=for-the-badge&color=0077B6&labelColor=0A192F)
-![Followers](https://img.shields.io/github/followers/iqragulshaikh?style=for-the-badge&color=0096C7&labelColor=0A192F&label=Followers)
-![Stars](https://img.shields.io/github/stars/iqragulshaikh?style=for-the-badge&color=00B4D8&labelColor=0A192F&label=Stars)
-
-</div>
+<br/>
 
 <br/>
 
