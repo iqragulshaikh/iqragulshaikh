@@ -17,7 +17,7 @@
 <br/>
 
 <br/>
-
+<div align="left">
 ## 🪐 About Me
 
 I'm a **Computer Science undergraduate** at Sir Syed University of Engineering and Technology (CGPA **3.94**), engineering full-stack web applications and AI/ML-driven systems with a product-focused, engineering-first mindset. My work spans **responsive frontend architecture**, **NLP-based classification systems**, and **QA/test design**, backed by hands-on experience shipping production-ready e-commerce platforms for real clients with **zero post-launch defects**.
@@ -369,7 +369,7 @@ Led front-end development across live client projects, engineering fully functio
 -->
 
 ---
-
+</div>
 <div align="center">
 
 *"Engineering clean code by day, commanding the stage by night."*
