@@ -364,75 +364,7 @@ Led front-end development across live client projects, engineering fully functio
 <br/>
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=iqragulshaikh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A192F&title_color=48CAE4&icon_color=00B4D8&text_color=ADE8F4" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iqragulshaikh&hide_border=true&background=0A192F&stroke=00B4D8&ring=48CAE4&fire=48CAE4&currStreakLabel=ADE8F4" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqragulshaikh&layout=compact&hide_border=true&bg_color=0A192F&title_color=48CAE4&text_color=ADE8F4" width="48%"/>
-
-</div>
-
-<p align="center"><sub>Stats reflect real GitHub activity and update automatically — they'll fill out as more of your project repos and commits go public.</sub></p>
-
-<br/>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iqragulshaikh&theme=onedark&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" />
-
-</div>
-
-<br/>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iqragulshaikh&theme=redical&bg_color=0A192F&color=48CAE4&line=00B4D8&point=ADE8F4&hide_border=true" width="90%"/>
-
-</div>
-
-<br/>
-
----
-
-## 🎯 Current Focus
-
-```yaml
-Learning:
-  - Advanced NLP & Deep Learning Architectures
-  - System Design Fundamentals
-  - Cloud-Native Application Development
-
-Building:
-  - AI-powered developer tooling
-  - Scalable full-stack product prototypes
-
-Exploring:
-  - MLOps & Model Deployment Pipelines
-  - Test Automation at Scale
-
-Open To:
-  - Software Engineering Internships
-  - Full-Stack / Frontend Roles
-  - AI/ML Research Opportunities
-  - QA & Test Engineering Roles
-```
-
-<br/>
-
----
-
+<!--
 ## 📬 Connect
 
 <div align="center">
@@ -445,6 +377,7 @@ Open To:
 </div>
 
 <br/>
+-->
 
 ---
 
