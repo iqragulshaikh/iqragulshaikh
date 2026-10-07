@@ -6,10 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=48CAE4&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+applications;Engineering+AI%2FML+solutions+for+real+problems;Turning+ideas+into+production-ready+products;CGPA+3.94+%7C+Sir+Syed+University+of+Eng.+%26+Tech." alt="Typing SVG" />
 </a>
 
-<br/>
-![University](https://img.shields.io/badge/Sir%20Syed%20University-CS%20%2723--%2727-00B4D8?style=for-the-badge&labelColor=0A192F)
-![Location](https://img.shields.io/badge/Karachi-Pakistan-0096C7?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0A192F)
-
+[![University](https://img.shields.io/badge/Sir%20Syed%20University-CS%20%2723--%2727-00B4D8?style=for-the-badge&labelColor=0A192F)](https://www.ssuet.edu.pk/)
+[![Location](https://img.shields.io/badge/Karachi-Pakistan-0096C7?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0A192F)](https://maps.google.com/?q=Karachi,+Pakistan)
 <br/>
 
 <a href="https://iqra-gul-portfolio-2r1u.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-48CAE4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A192F" /></a>
