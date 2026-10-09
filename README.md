@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:0077B6,100:48CAE4&height=260&section=header&text=IQRA%20GUL&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20QA%20%7C%20Public%20Speaker&descAlignY=55&descSize=20&descColor=ADE8F4" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=48CAE4&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+applications;Engineering+AI%2FML+solutions+for+real+problems;Turning+ideas+into+production-ready+products;CGPA+3.94+%7C+Sir+Syed+University+of+Eng.+%26+Tech." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=48CAE4&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+applications;Engineering+AI%2FML+solutions+for+real+problems;Turning+ideas+into+production-ready+products;%7C+Sir+Syed+University+of+Eng.+%26+Tech." alt="Typing SVG" />
 </a>
 
 [![University](https://img.shields.io/badge/Sir%20Syed%20University-CS%20%2723--%2727-00B4D8?style=for-the-badge&labelColor=0A192F)](https://www.ssuet.edu.pk/)
